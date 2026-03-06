@@ -1,0 +1,47 @@
+{
+  "name": "opencode-auto-model-switcher",
+  "version": "1.0.0",
+  "description": "智能免费模型自动切换器 for OpenCode - 当模型不可用时自动选择最佳免费模型",
+  "main": "auto-model-switcher/switcher.js",
+  "scripts": {
+    "test": "node auto-model-switcher/test.js",
+    "install-skill": "node auto-model-switcher/install.js"
+  },
+  "keywords": [
+    "opencode",
+    "skill",
+    "ai",
+    "model",
+    "switch",
+    "fallback",
+    "free-models",
+    "openrouter",
+    "llm",
+    "auto-switcher"
+  ],
+  "author": "Your Name <you@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/opencode-auto-model-switcher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/opencode-auto-model-switcher/issues"
+  },
+  "homepage": "https://github.com/yourusername/opencode-auto-model-switcher#readme",
+  "engines": {
+    "node": ">=18.0.0",
+    "opencode": ">=1.0.0"
+  },
+  "files": [
+    "auto-model-switcher/"
+  ],
+  "os": [
+    "win32",
+    "linux",
+    "darwin"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
