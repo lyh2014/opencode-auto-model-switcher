@@ -176,4 +176,4 @@ MIT
 ## 支持
 
 遇到问题？创建issue或联系：
-- GitHub: https://github.com/anomalyco/opencode/issues
+- GitHub: https://github.com/lyh2014/opencode-auto-model-switcher/issues

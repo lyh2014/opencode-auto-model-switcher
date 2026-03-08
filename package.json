@@ -1,7 +1,7 @@
 {
   "name": "opencode-auto-model-switcher",
   "version": "1.0.0",
-  "description": "智能免费模型自动切换器 for OpenCode - 当模型不可用时自动选择最佳免费模型",
+  "description": "Intelligent free model auto-switcher for OpenCode - automatically selects the best free model when current model is unavailable | 智能免费模型自动切换器 for OpenCode",
   "main": "auto-model-switcher/switcher.js",
   "scripts": {
     "test": "node auto-model-switcher/test.js",
@@ -19,16 +19,16 @@
     "llm",
     "auto-switcher"
   ],
-  "author": "Your Name <you@example.com>",
+  "author": "lyh2014",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/opencode-auto-model-switcher.git"
+    "url": "https://github.com/lyh2014/opencode-auto-model-switcher.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/opencode-auto-model-switcher/issues"
+    "url": "https://github.com/lyh2014/opencode-auto-model-switcher/issues"
   },
-  "homepage": "https://github.com/yourusername/opencode-auto-model-switcher#readme",
+  "homepage": "https://github.com/lyh2014/opencode-auto-model-switcher#readme",
   "engines": {
     "node": ">=18.0.0",
     "opencode": ">=1.0.0"
