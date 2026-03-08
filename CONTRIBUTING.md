@@ -10,7 +10,7 @@
 
 ### 报告 Bug
 
-如果发现bug，请创建 [Issue](https://github.com/yourusername/opencode-auto-model-switcher/issues)，包含：
+如果发现bug，请创建 [Issue](https://github.com/lyh2014/opencode-auto-model-switcher/issues)，包含：
 
 1. **Bug描述**：清晰描述问题
 2. **复现步骤**：如何重现这个bug
@@ -24,7 +24,7 @@
 
 ### 提出新功能
 
-1. 先查看 [Issues](https://github.com/yourusername/opencode-auto-model-switcher/issues) 是否已有类似建议
+1. 先查看 [Issues](https://github.com/lyh2014/opencode-auto-model-switcher/issues) 是否已有类似建议
 2. 创建新issue，描述：
    - **功能用途**：解决什么痛点
    - **实现思路**：建议的实现方式
@@ -41,7 +41,7 @@
 # 点击 GitHub 右上角 Fork 按钮
 
 # 2. 克隆到本地
-git clone https://github.com/yourusername/opencode-auto-model-switcher.git
+git clone https://github.com/lyh2014/opencode-auto-model-switcher.git
 cd opencode-auto-model-switcher
 
 # 3. 创建开发分支
@@ -95,7 +95,7 @@ git checkout -b fix/BugFixName
    ```
 
 2. **创建Pull Request**
-   - 访问 https://github.com/yourusername/opencode-auto-model-switcher/pulls
+   - 访问 https://github.com/lyh2014/opencode-auto-model-switcher/pulls
    - 点击 "New pull request"
    - 选择 base: `main`，compare: 你的分支
    - 填写PR模板
@@ -238,9 +238,8 @@ A: 当前仅针对免费模型优化，但可以添加付费模型到列表（�
 
 ## 📞 联系方式
 
-- **Issues**: https://github.com/yourusername/opencode-auto-model-switcher/issues
-- **Discussions**: https://github.com/yourusername/opencode-auto-model-switcher/discussions
-- **Email**: your.email@example.com
+- **Issues**: https://github.com/lyh2014/opencode-auto-model-switcher/issues
+- **Discussions**: https://github.com/lyh2014/opencode-auto-model-switcher/discussions
 
 ## 🙏 致谢
 

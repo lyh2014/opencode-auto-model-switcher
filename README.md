@@ -6,7 +6,7 @@
 [![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-> 智能免费模型自动切换器 - 当模型不可用时无缝切换到最佳替代
+> 智能免费模型自动切换器 - 当模型不可用时无缝切换到最佳替代 | Intelligent free model auto-switcher for OpenCode
 
 [📦 安装](#-安装) • [⚙️ 配置](#-配置) • [📖 文档](#-文档) • [🧪 测试](#-测试)
 
@@ -86,7 +86,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/yourusername/opencode-auto-model-switcher.git
+git clone https://github.com/lyh2014/opencode-auto-model-switcher.git
 cd opencode-auto-model-switcher
 
 # 2. 运行安装脚本
@@ -425,7 +425,7 @@ auto-model-switcher/
 
 ## 📄 License
 
-MIT © 2026 [Your Name]
+MIT © 2026 lyh2014
 
 ---
 

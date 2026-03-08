@@ -199,7 +199,7 @@ type "%APPDATA%\opencode\opencode.json" | findstr autoModelSwitcher
 ## 📖 详细文档
 
 完整文档见 `README.md` 或：
-https://github.com/anomalyco/opencode/blob/main/docs/skills/auto-model-switcher.md
+https://github.com/lyh2014/opencode-auto-model-switcher#readme
 
 ## ⚡ 性能指标
 
@@ -222,4 +222,4 @@ https://github.com/anomalyco/opencode/blob/main/docs/skills/auto-model-switcher.
 
 ---
 
-问题？提Issue：https://github.com/anomalyco/opencode/issues
+问题？提Issue：https://github.com/lyh2014/opencode-auto-model-switcher/issues
